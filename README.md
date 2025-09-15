@@ -14,5 +14,5 @@ color:
 ---
 [高科大](https://www.nkust.edu.tw/)
 
-![NKUST](IMG_4556.jpeg "NKUST")
+![NKUST](182513897.png "NKUST")
 
